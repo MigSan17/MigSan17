@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MigSan17
 - 👀 I’m interested in Aviation and Software Engineering
 - 🌱 I’m currently learning Java, HTML, CSS & Javascript
-- 💞️ I’m looking to collaborate on Beginner projects for Java or Web Development
+- 💞️ I’m looking to collaborate on Beginner projects in Java or Web Development
 - 📫 How to reach me: You can reach via my eamil - miguelandrew17@gmail.com
 
 <!---
